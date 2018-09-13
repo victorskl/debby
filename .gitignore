@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+
+root
+data
+docker-compose.override.yml
